@@ -1,7 +1,7 @@
 <?php
-$data = array();
-$packages = json_decode(file_get_contents('./package.json'));
-$version = $packages['version'];
+// $data = array();
+// $packages = json_decode(file_get_contents('./package.json'));
+// $version = $packages['version'];
 /**
  * Plugin Name: Big Publish Button
  * Description: Create a butto to deploy websites
